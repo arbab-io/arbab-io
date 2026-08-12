@@ -107,9 +107,3 @@ feature-based structure, shared component libraries, and TypeScript codebases th
 up after you leave.
 
 BS Computer Science, PAF-KIET.
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arbab-io&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" height="150">
-</div>
